@@ -1,0 +1,4 @@
+2021-Feb-17 09:54:50,080 [main] com.ts.utils.Config 
+  INFO  Browser NameChrome
+2021-Feb-17 09:54:56,596 [main] com.ts.utils.Config 
+  INFO  URLhttp://103.50.162.196/testing

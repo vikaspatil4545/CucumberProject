@@ -1,0 +1,6 @@
+2021-Feb-16 12:02:39,366 [main] com.ts.utils.Config 
+  INFO  Browser NameChrome
+2021-Feb-16 12:02:43,772 [main] com.ts.utils.Config 
+  INFO  URLhttp://103.50.162.196/testing
+2021-Feb-16 12:02:50,125 [main] com.ts.pages.LoginPage 
+  INFO  Login successfully
