@@ -14,7 +14,7 @@ public class LoginPage  {
 	By passwordTxt = By.cssSelector("input#exampleInputPassword1");
 	By loginBtn = By.cssSelector("button.box-shadow");
 	
-//
+
 	public void enterMobileno(String mobileNumber) {
 		Constant.driver.findElement(mobileNoTxt).sendKeys(mobileNumber);
 
